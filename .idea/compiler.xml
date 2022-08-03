@@ -8,7 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="study" />
-        <module name="JavaSeStudy" />
+        <module name="JavaSe_Study" />
       </profile>
     </annotationProcessing>
   </component>
